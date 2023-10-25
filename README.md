@@ -1,10 +1,11 @@
-👋 Olá, eu sou @nanne00
+### Olá, Mundo! 👋
 
-👀 Tenho interesse em programação...
-🌱 Atualmente estou aprendendo programação...
-💞️ Estou em busca de colaborações na área de programação...
-📫 Você pode me contatar pelo email guirlandatoo@gmail.com
-<!---
-nanne00/nanne00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou o @nanne00, um entusiasta da programação e apaixonado por desafios técnicos. 🚀
+
+🌱 Atualmente, estou imerso no universo da programação, sempre em busca de aprendizado e crescimento. Meu foco principal é [Javascript, Python] e estou constantemente aprimorando minhas habilidades.
+
+💡 Estou sempre aberto a novas oportunidades e colaborações emocionantes na área de programação. Se você tem um projeto interessante ou gostaria de trocar ideias, não hesite em entrar em contato comigo. 🤝
+
+📫 Você pode me contatar pelo email guirlandatoo@gmail.com. Estou ansioso para nos conectarmos e criar coisas incríveis juntos! ✉️
+
+Vamos codificar o futuro! 💻🌟
